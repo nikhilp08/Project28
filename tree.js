@@ -9,7 +9,7 @@ class Tree{
     this.body = Bodies.circle(x,y,radius,options);
     this.radius = radius;
 
-    this.image = loadImage('Plucking mangoes/tree.png')
+    this.image = loadImage('tree.png')
     
     World.add(world,this.body);
 
