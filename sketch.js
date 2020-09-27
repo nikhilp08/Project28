@@ -15,8 +15,8 @@ var chain;
 
 function preload()
 {
-    boyImage = loadImage('Plucking mangoes/boy.png');
-    treeImage = loadImage('Plucking mangoes/tree.png');
+    boyImage = loadImage('boy.png');
+    treeImage = loadImage('tree.png');
 	
 }
 
